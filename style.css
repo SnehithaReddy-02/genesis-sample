@@ -413,6 +413,7 @@ h6 {
 h1 {
   font-size: 36px;
   font-size: 3.6rem;
+	/* 10px= 0.625 rem */
 }
 
 h2 {
